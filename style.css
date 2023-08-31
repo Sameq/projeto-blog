@@ -1,0 +1,17 @@
+#title, .title_post, .title_text{
+    color: rgb(94, 7, 192);
+
+}
+
+.title_post{
+    color: rgb(91, 10, 138);
+}
+.title_text{
+    color: rgb(163, 0, 204);
+    font-size: 20px;
+    font-style: italic;
+}
+.texto{
+    color: rgb(134, 0, 175);
+    font-style: oblique;
+}

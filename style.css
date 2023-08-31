@@ -1,17 +1,23 @@
-#title, .title_post, .title_text{
-    color: rgb(94, 7, 192);
+body {
+    background-color: rgb(139, 60, 214);
+}
 
+#title, .title_post, .title_text{
+    color: rgb(255, 255, 255);
 }
 
 .title_post{
-    color: rgb(91, 10, 138);
+    color: rgb(255, 254, 255);
 }
 .title_text{
-    color: rgb(163, 0, 204);
+    color: rgb(255, 255, 255);
     font-size: 20px;
     font-style: italic;
 }
 .texto{
-    color: rgb(134, 0, 175);
+    color: rgb(238, 238, 238);
     font-style: oblique;
+}
+.links {
+    color: rgb(242, 239, 245);
 }

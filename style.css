@@ -54,11 +54,33 @@ body {
 }
 .lista_links a {
     text-decoration: none;
-    color: rgb(252, 252, 252);
+    /* color: rgb(252, 252, 252); */
     display: block;
     padding: 5px 0;
-    text-decoration: underline;
+    margin-top: -8px;
+
 }
+button{
+    color:rgb(139, 60, 214);
+    background-color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    height: 25px;
+    margin-left: 10%;
+    position: relative; /* ou position: absolute; */
+    bottom: -10px;
+}
+
+button a {
+    color: blueviolet;
+}
+/* button > a {
+    color:rgb(139, 60, 214);
+    border: none;
+    padding: 10px;
+} */
 .lista_links li {
     margin-right: 23px;
 }
